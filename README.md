@@ -5,8 +5,8 @@ Wave2Cloud is the first and only audio and video artificial intelligence solutio
 With this software, you no longer need to keep watching your security camera. 
 You can pick any sound event or video object of interest and receive instant notifications by email and text message.
 
-Download the software at http://securehome.xyz/api/containers/public/download/SmartHome.exe
-
+Download the Windows 10 version on http://securehome.xyz/api/containers/public/download/SmartHome.exe
+Androd version coming soon!
 
 One software, universal function
 
